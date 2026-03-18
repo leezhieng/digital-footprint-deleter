@@ -1,7 +1,7 @@
 # Facebook Comments Deleter
-**Automate the tedious task of clearing your digital footprint.**<br /><br />
+**Automate the tedious task of clearing your digital footprint.**<p />
 
-A simple browser-based script that automatically deletes your Facebook comments one by one. It’s secure, no need to share your password or grant special permissions, and includes random delays to mimic human behavior, making it less likely to be flagged as a bot.<br /><br />
+A simple browser-based script that automatically deletes your Facebook comments one by one. It’s secure, no need to share your password or grant special permissions, and includes random delays to mimic human behavior, making it less likely to be flagged as a bot.<p />
 
 Run the script and leave the tab visible to see the automation in action. Because this tool prioritizes account safety by simulating human behavior, large-scale deletions are processed gradually. For best results, keep your browser open until the task is complete.
 
@@ -50,7 +50,8 @@ Run the script and leave the tab visible to see the automation in action. Becaus
 ## Notes
 
 - You can tweak the `repeatCount` value to delete more or fewer comments.  
-- You can also adjust the jitter and delay settings if needed, but it’s best to leave them as-is unless you know what you’re doing.  
+- You can also adjust the jitter and delay settings if needed, but it’s best to leave them as-is unless you know what you’re doing.
+- Do not minimize the browser. The script requires the page to be actively rendered to find the popup menu. If you see a "Could not find element" error, ensure the tab is visible and not in the background. 
 
 ## Compatibility
 
