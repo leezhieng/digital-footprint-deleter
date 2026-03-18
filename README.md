@@ -51,7 +51,7 @@ Run the script and leave the tab visible to see the automation in action. Becaus
 
 - You can tweak the `repeatCount` value to delete more or fewer comments.  
 - You can also adjust the jitter and delay settings if needed, but it’s best to leave them as-is unless you know what you’re doing.
-- Do not minimize the browser. The script requires the page to be actively rendered to find the popup menu. If you see a "Could not find element" error, ensure the browser is not minimized. 
+- Please do not minimize the browser window. Facebook’s dynamic UI relies on active rendering to trigger the "infinite scroll" that loads older history items. If the window is minimized, the script may throw a "Could not find element" error because the next set of posts has failed to load into the DOM.
 
 ## Compatibility
 
