@@ -41,7 +41,7 @@ Run the script and leave the tab visible to see the automation in action. Becaus
   <img src="steps/05.png" width="320">
 </p>
 
-10. To pause the automation, click the "Pause script execution" button in the Sources tab or use the F8 shortcut. Once you are finished, simply close the browser tab; no manual cleanup is required.
+10. To pause the automation, click the **Pause script execution** button in the **Sources** tab or use the F8 shortcut. Once you are finished, simply close the browser tab; no manual cleanup is required.
 
 <p align="left">
   <img src="steps/06.png" width="320">
@@ -51,7 +51,7 @@ Run the script and leave the tab visible to see the automation in action. Becaus
 
 - You can tweak the `repeatCount` value to delete more or fewer comments.  
 - You can also adjust the jitter and delay settings if needed, but it’s best to leave them as-is unless you know what you’re doing.
-- Do not minimize the browser. The script requires the page to be actively rendered to find the popup menu. If you see a "Could not find element" error, ensure the tab is visible and not in the background. 
+- Do not minimize the browser. The script requires the page to be actively rendered to find the popup menu. If you see a "Could not find element" error, ensure the browser is not minimized. 
 
 ## Compatibility
 
