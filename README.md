@@ -9,13 +9,13 @@ Run the script and leave the tab visible to see the automation in action. Becaus
 
 List of scripts and its functionality
 
-### - Facebook Posts Deleter
-
-Delete your Facebook posts by bulk
-
-### - Facebook Comments Deleter
+### • Facebook Comments Deleter
 
 Delete your Facebook comments one by one, or by bulk
+
+### • Facebook Posts Deleter
+
+Delete your Facebook posts by bulk
 
 ## Compatibility
 
